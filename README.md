@@ -1,4 +1,4 @@
-# Batman Ao3 Skin
+# Batman AO3 Skin
 How To Add Skin:
 
 1. Copy the code
